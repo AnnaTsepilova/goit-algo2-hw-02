@@ -120,5 +120,6 @@ def run_tests():
         print(f"Розрізи: {table_result['cuts']}")
         print(f"Кількість розрізів: {table_result['number_of_cuts']}")
 
+
 if __name__ == "__main__":
     run_tests()
